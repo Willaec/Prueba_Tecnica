@@ -1,0 +1,14 @@
+
+Sistema de consulta 
+
+Entradas
+•	Consultas realizadas por el usuario
+•	Información obtenida de la base de datos
+
+Procedimiento 
+•	Comparación entre datos de ubicación para determinar coincidencias entre las consultas
+
+Salidas
+•	Datos de la ubicación del ganado o de la zona de deforestación 
+•	Notificación de alerta en caso de encontrar coincidencias entre ubicación del ganado y las zonas de deforestación.
+•	Opción de despliegue gráfico de las coordenadas obtenidas en la búsqueda. 
