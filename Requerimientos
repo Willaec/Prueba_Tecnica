@@ -1,0 +1,21 @@
+Listado de requisitos 
+
+Planteamiento del problema
+Contando con una base de datos que brinda ubicación y propietario del ganado e información sobre la ubicación de las zonas de deforestación, se debe diseñar un sistema de información que ayude a identificar qué animales se encuentran en dichas zonas de deforestación y cuáles no lo están. 
+
+lanteamiento de la solución
+Se debe diseñar un software que permita realizar una consulta directa a la base de datos y que muestre de manera sencilla la ubicación tanto de ganado como de zonas de deforestación y que permita determinar visualmente si confluyen en una misma ubicación.
+
+Requerimientos funcionales:
+•	El sistema debe permitir aplicar en las consultas, filtros por ubicación del ganado y filtro por ubicación de la zona. 
+•	En los campos de búsqueda, solo se deben aceptar valores predefinidos, tomados de la base de datos. 
+•	El sistema debe cotejar la ubicación del ganado con la zona de deforestación. 
+•	El sistema debe alertar si encuentra una coincidencia entre ubicación del ganado y ubicación de zona de deforestación. 
+
+Requerimientos de calidad
+•	El sistema debe ejecutarse de manera óptima en dispositivos inteligentes como tablets, celulares y en computadores. 
+•	El sistema debe permitir la opción de mostrar la ubicación geográfica de forma gráfica. 
+•	El sistema debe presentar la interfaz gráfica limpia y sus cuadros de búsqueda no deben ser invasivos. 
+
+Requerimientos de seguridad
+•	El sistema de información será solo de consulta, no podrán agregarse o eliminarse datos de la base desde el sistema. 
